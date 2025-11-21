@@ -1,4 +1,4 @@
-# Project: PDF Chat Bot
+#  PDF Chat Bot
 
 This project implements a Retrieval-Augmented Generation (RAG) pipeline to create a chatbot that can answer questions about a PDF document. The system uses LangChain to orchestrate the process, OpenAI's language models for understanding and generation, and a vector store for efficient document retrieval. The entire workflow is structured as a graph using `langgraph`.
 
